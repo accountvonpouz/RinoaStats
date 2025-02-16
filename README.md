@@ -20,7 +20,5 @@ A Discord bot that tracks server statistics such as total members, human members
 - 🙎 Humans: 100
 - 🤖 Bots: 23
 
-These channels will be updated every hour with the latest member counts.
-
 # License
 This project is licensed under the MIT License

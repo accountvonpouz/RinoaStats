@@ -15,6 +15,7 @@ logging.basicConfig(
 intents = disnake.Intents.all()
 intents.reactions = True
 bot = commands.Bot(
+    command_prefix=Rinoa,
     intents=intents,
     help_command=None,
 )

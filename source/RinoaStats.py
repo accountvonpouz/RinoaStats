@@ -27,6 +27,7 @@ with open('config.json', 'r') as file:
 # loads the events that are in the source.event.on folder
 bot.load_extension("event.on.on_ready")
 bot.load_extension("event.updatestats")
+bot.load_extension("event.syncstats")
 
 
 def main():
